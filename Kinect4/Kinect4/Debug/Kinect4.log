@@ -1,0 +1,4 @@
+﻿  Kinect4.cpp
+c:\users\justi\onedrive\documents\visual studio 2017\projects\kinect4\kinect4\kinect4.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Kinect4.vcxproj -> C:\Users\justi\OneDrive\documents\visual studio 2017\Projects\Kinect4\Debug\Kinect4.exe
+  Kinect4.vcxproj -> C:\Users\justi\OneDrive\documents\visual studio 2017\Projects\Kinect4\Debug\Kinect4.pdb (Partial PDB)

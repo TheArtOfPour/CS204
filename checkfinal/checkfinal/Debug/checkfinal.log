@@ -1,0 +1,4 @@
+﻿  checkfinal.cpp
+c:\users\justi\onedrive\documents\visual studio 2017\projects\checkfinal\checkfinal\checkfinal.cpp(12): warning C4552: '<=': operator has no effect; expected operator with side-effect
+  checkfinal.vcxproj -> C:\Users\justi\onedrive\documents\visual studio 2017\Projects\checkfinal\Debug\checkfinal.exe
+  checkfinal.vcxproj -> C:\Users\justi\onedrive\documents\visual studio 2017\Projects\checkfinal\Debug\checkfinal.pdb (Partial PDB)

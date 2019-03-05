@@ -1,0 +1,4 @@
+﻿  ttt.cpp
+c:\users\justi\onedrive\documents\visual studio 2017\projects\ttt\ttt\ttt.cpp(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ttt.vcxproj -> c:\users\justi\onedrive\documents\visual studio 2017\Projects\ttt\Debug\ttt.exe
+  ttt.vcxproj -> c:\users\justi\onedrive\documents\visual studio 2017\Projects\ttt\Debug\ttt.pdb (Partial PDB)

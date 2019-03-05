@@ -1,0 +1,4 @@
+﻿  MidtermTest.cpp
+c:\users\justi\onedrive\documents\visual studio 2017\projects\midtermtest\midtermtest\midtermtest.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MidtermTest.vcxproj -> C:\Users\justi\onedrive\documents\visual studio 2017\Projects\MidtermTest\Debug\MidtermTest.exe
+  MidtermTest.vcxproj -> C:\Users\justi\onedrive\documents\visual studio 2017\Projects\MidtermTest\Debug\MidtermTest.pdb (Partial PDB)

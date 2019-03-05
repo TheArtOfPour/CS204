@@ -1,0 +1,4 @@
+﻿  vectors.cpp
+c:\users\justi\onedrive\documents\visual studio 2017\projects\vectors\vectors\vectors.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  vectors.vcxproj -> c:\users\justi\onedrive\documents\visual studio 2017\Projects\vectors\Debug\vectors.exe
+  vectors.vcxproj -> c:\users\justi\onedrive\documents\visual studio 2017\Projects\vectors\Debug\vectors.pdb (Partial PDB)

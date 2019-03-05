@@ -1,0 +1,7 @@
+﻿  collections.cpp
+c:\users\justi\onedrive\documents\visual studio 2017\projects\collections\collections\collections.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\justi\onedrive\documents\visual studio 2017\projects\collections\collections\collections.cpp(51): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(335): note: see declaration of 'strncpy'
+  collections.vcxproj -> c:\users\justi\onedrive\documents\visual studio 2017\Projects\collections\Debug\collections.exe
+  collections.vcxproj -> c:\users\justi\onedrive\documents\visual studio 2017\Projects\collections\Debug\collections.pdb (Partial PDB)

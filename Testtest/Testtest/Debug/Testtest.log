@@ -1,0 +1,6 @@
+﻿  Testtest.cpp
+c:\users\justi\onedrive\documents\visual studio 2017\projects\testtest\testtest\testtest.cpp(6): error C2143: syntax error: missing ';' before 'namespace'
+c:\users\justi\onedrive\documents\visual studio 2017\projects\testtest\testtest\testtest.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\justi\onedrive\documents\visual studio 2017\projects\testtest\testtest\testtest.cpp(6): error C2059: syntax error: ';'
+c:\users\justi\onedrive\documents\visual studio 2017\projects\testtest\testtest\testtest.cpp(11): error C2065: 'cout': undeclared identifier
+c:\users\justi\onedrive\documents\visual studio 2017\projects\testtest\testtest\testtest.cpp(12): error C3861: 'system': identifier not found
